@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">ConversorTemperatura</string>
-    <string name="text_editext">Temperatura em Fahrenheit</string>
+    <string name="text_editext">Temperatura</string>
     <string name="text_button">CONVETER PARA CELSIUS</string>
     <string name="text_textView" />
+    <string name="text_celsius">CELSIUS</string>
+    <string name="text_fahrenheit">FAHRENHEIT</string>
 </resources>
